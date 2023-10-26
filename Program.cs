@@ -7,7 +7,7 @@ class Program
 
     static void Main()
     {
-        Console.WriteLine("Bem-vindo ao aplicativo de lista de tarefas!");
+        Console.WriteLine("Bem-vindo ao aplicativo de lista de tarefas!!");
 
         while (true)
         {
