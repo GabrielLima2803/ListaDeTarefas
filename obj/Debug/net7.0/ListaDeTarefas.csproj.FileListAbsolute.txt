@@ -1,0 +1,14 @@
+C:\Users\linda\music\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.exe
+C:\Users\linda\music\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.deps.json
+C:\Users\linda\music\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.runtimeconfig.json
+C:\Users\linda\music\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.dll
+C:\Users\linda\music\ListaDeTarefas\bin\Debug\net7.0\ListaDeTarefas.pdb
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.AssemblyInfo.cs
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.dll
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\refint\ListaDeTarefas.dll
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.pdb
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\ListaDeTarefas.genruntimeconfig.cache
+C:\Users\linda\music\ListaDeTarefas\obj\Debug\net7.0\ref\ListaDeTarefas.dll
